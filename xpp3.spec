@@ -7,7 +7,7 @@ Version:        1.1.4c
 Release:        2
 Epoch:          0
 License:        ASL 1.1
-URL:            http://www.extreme.indiana.edu/xgws/xsoap/xpp/mxp1/index.html
+URL:            https://www.extreme.indiana.edu/xgws/xsoap/xpp/mxp1/index.html
 Source0:        http://www.extreme.indiana.edu/dist/java-repository/xpp3/distributions/xpp3-%{oversion}_src.tgz
 Source1:        http://maven.ibiblio.org/maven2/xpp3/xpp3/%{version}/xpp3-%{version}.pom
 Source2:        http://maven.ibiblio.org/maven2/xpp3/xpp3_xpath/%{version}/xpp3_xpath-%{version}.pom
